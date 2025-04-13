@@ -11,12 +11,12 @@ from matplotlib.animation import FuncAnimation
 import math 
 
 # --- Number of Qubits, Time step, Number of Time Steps ---
-N_qubits = 8
+N_qubits = 4
 delta_t = 0.01
 steps = 1
 
 # --- Well Constants ---
-a = 80
+a = 50
 b = 0.5
 c= 0.9
 
