@@ -8,7 +8,7 @@ Quantum Comm & Networking
 taught by Dr. Michel Barbeau 
 
 
-Simulate the results of a n quibit tunneling system through a potential barrier. 
+Simulate the results of a n quibit tunneling system through a potential barrier using IBM's Qiskit. 
 
 Setup: 
 
