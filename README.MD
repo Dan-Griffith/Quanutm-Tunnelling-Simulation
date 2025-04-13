@@ -7,15 +7,14 @@ COMP 4900 A:
 Quantum Comm & Networking 
 taught by Dr. Michel Barbeau 
 
-
-Simulate the results of a n quibit tunneling system through a potential barrier using IBM's Qiskit. 
+Simulate the results of an n qubit tunneling system through a potential barrier using IBM's Qiskit. 
 
 Setup: 
 
  - python -m venv {environment_name}
  - cd {evironment_name}
 
- - Activate environemnt:
+ - Activate environment:
     - mac: source ./bin/activate 
     - windows: ./Scripts/activate
 
