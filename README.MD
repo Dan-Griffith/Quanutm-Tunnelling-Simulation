@@ -2,7 +2,7 @@ Dan Griffith
 Cole Mclaren 
 Final Project for: 
 
-COMP 4900 A:
+Carleton University COMP 4900 A:
 
 Quantum Comm & Networking 
 taught by Dr. Michel Barbeau 
