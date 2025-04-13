@@ -28,7 +28,7 @@ V = a * (positions**2 - b**2)**2
 # V = a * (positions**2 - b**2)**2 * (positions**2 - c**2)
 
 V = V.tolist()
-initial_state = Statevector.from_label('00111110')
+initial_state = Statevector.from_label('0011')
 
 if math.log2(len(initial_state)) != N_qubits:
     raise ValueError(f"Length of initial states is {len(initial_state)} cannot be represented by {N_qubits} qubits.")
